@@ -1,7 +1,6 @@
 ---
 title: "Jung-A Lim"
 date: 2018-11-19T10:47:58+10:00
-image: ""
 jobtitle: "Ambassador"
 linkedinurl: "https://www.linkedin.com/in/jung-a-lim/"
 promoted: true
