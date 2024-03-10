@@ -1,32 +1,17 @@
 [
   {
-    "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
-    "image": "images/social/github.svg"
-  },
-  {
-    "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
-    "image": "images/social/twitter.svg"
-  },
-  {
-      "name": "Facebook",
-      "link": "https://facebook.com",
-      "image": "images/social/facebook.svg"
-  },
-  {
       "name": "Email",
-      "link": "mailto:ekyllserif@example.com ",
+      "link": "mailto:wids.columbia@gmail.com",
       "image": "images/social/email.svg"
   },
   {
       "name": "Instagram",
-      "link": "https://instagram.com",
+      "link": "https://www.instagram.com/wids_columbia/",
       "image": "images/social/instagram.svg"
   },
   {
-      "name": "Discord",
-      "link": "https://discord.com",
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/company/wids-columbia-university/",
       "image": "images/social/discord.svg"
   }
 
