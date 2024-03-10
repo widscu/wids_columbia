@@ -17,8 +17,8 @@ $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
 
 // Fonts
-$font-family-base: "Acumin Pro Condensed", serif, -apple-system;
-$font-family-heading: "Acumin Pro", serif, -apple-system;
+$font-family-base: "Acumin Pro Condensed", -apple-system;
+$font-family-heading: "Acumin Pro", -apple-system;
 
 // Footer
 $footer-background-color: $white-offset;
