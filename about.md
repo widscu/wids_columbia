@@ -7,4 +7,4 @@ bodyClass: page-about
 
 WiDS Columbia University is independently organized by Jung-A Lim, Shefali Shrivastava, and Niki Karanikola to be part of the mission to increase participation of women in data science and to feature outstanding women doing outstanding work.
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+![Accounting Services](/images/illustrations/about.jpg)
