@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Datathon Challenge 2024
 
-...
+Join the waiting list [click here](https://forms.gle/gVWuL3b71NsgiXVf7).
