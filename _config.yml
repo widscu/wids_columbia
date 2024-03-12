@@ -4,11 +4,11 @@ title: 'WiDS Columbia'
 
 logo:
   mobile: "images/logo/wids_logo.png"
-  mobile_height: "50%"
-  mobile_width: "50%"
+  mobile_height: "100%"
+  mobile_width: "100%"
   desktop: "images/logo/wids_logo.png"
-  desktop_height: "50%"
-  desktop_width: "50%"
+  desktop_height: "30%"
+  desktop_width: "30%"
 
 home: 
   limit_services: 6
