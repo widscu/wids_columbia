@@ -13,4 +13,4 @@ The WiDS Datathon is an opportunity to discover and hone data science skills whi
 
 Date: April 20, 2024
 
-[Join the waiting list](https://forms.gle/gVWuL3b71NsgiXVf7).
+[Sign Up]([https://forms.gle/gVWuL3b71NsgiXVf7](https://wids-nyc-columbia-university-datathon.eventbrite.com)https://wids-nyc-columbia-university-datathon.eventbrite.com).
