@@ -4,8 +4,8 @@ title: 'WiDS Columbia'
 
 logo:
   mobile: "images/logo/wids_logo_mobile.jpg"
-  mobile_height: "50px"
-  mobile_width: "150px"
+  mobile_height: "30%"
+  mobile_width: "30%"
   desktop: "images/logo/wids_logo.png"
   desktop_height: "30%"
   desktop_width: "30%"
